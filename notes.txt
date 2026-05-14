@@ -1,0 +1,2 @@
+Learning Git and GitHub step by step
+Git helps track project changes.
