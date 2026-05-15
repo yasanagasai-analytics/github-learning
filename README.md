@@ -5,4 +5,4 @@ learning Git and GiHub practically
 - basics
 - commits
 - branches
-** high value **
+**high value**
